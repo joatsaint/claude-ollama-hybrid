@@ -1,0 +1,11 @@
+Team meeting notes, Tuesday.
+
+We opened by reviewing last month's help desk numbers. Ticket volume was flat, and the average time to close a ticket improved slightly. Dana said the new password reset page is working well and people are using it instead of calling.
+
+The printer on the second floor jammed three times this week. Marcus will call the vendor on Wednesday and ask for a replacement roller. Until then, people should use the printer on the first floor.
+
+Priya raised the old file server. It is out of warranty, and two backup jobs failed last weekend. Priya will check the backup logs by Friday and report back whether the failures were a one-time problem. Nobody wants to replace the server this quarter, but the team agreed to price a replacement before the budget meeting.
+
+The team talked about the holiday schedule. Coverage is fine for the week of the twentieth, but the week after needs one more person. Dana will send a sign-up sheet to the team on Monday.
+
+We ended with a short discussion about training. Several people asked for a one-hour lunch session on spotting phishing emails. Marcus will ask the security group if someone can run it in January.
